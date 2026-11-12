@@ -1,0 +1,128 @@
+PHOTO SLOTS
+
+Every room has ONE picture slot. To add or swap a photo, upload a .jpg with the exact name below next to index.html.
+Landscape (4:3) photos, about 1000 px wide, look best.
+
+PAST
+  past-social.jpg            [filled]
+  past-economic.jpg          [filled]
+  past-political.jpg         [filled]
+  past-cultural.jpg          [filled]
+  past-environmental.jpg     [loads from Wikimedia Commons, credited on page; your own file overrides it]
+  past-others.jpg            [filled]
+
+PRESENT
+  present-social.jpg         [filled]
+  present-economic.jpg       [filled]
+  present-political.jpg      [filled]
+  present-cultural.jpg       [filled]
+  present-environmental.jpg  [filled]
+  present-others.jpg         [filled]
+
+FUTURE
+  future-social.jpg          [optional: animated hologram shows until you add one]
+  future-economic.jpg        [optional: animated hologram shows until you add one]
+  future-political.jpg       [optional: animated hologram shows until you add one]
+  future-cultural.jpg        [optional: animated hologram shows until you add one]
+  future-environmental.jpg   [optional: animated hologram shows until you add one]
+  future-others.jpg          [optional: animated hologram shows until you add one]
+
+FUTURE: either file name works (the page tries the first, then the second).
+  future-banner.jpg  or  future-banner-manila-night.jpg   (hero background, optional)
+  future-social.jpg  or  gallery-2030s-social-aging.jpg
+  future-economic.jpg  or  gallery-2030s-economic-ai-bpo.jpg
+  future-political.jpg  or  space-2030s-political-hybrid-protest.jpg
+  future-cultural.jpg  or  gallery-2030s-cultural-creatives.jpg
+  future-environmental.jpg  or  gallery-2030s-environmental-typhoon.jpg
+  future-others.jpg  or  perf-2030s-others-gaming-career.jpg
+
+
+EVERY PICTURE SLOT (upload a .jpg with the exact name next to index.html; landscape 4:3, ~1000 px wide)
+
+past-social.jpg                               [filled]  <- Past | Social | main picture
+past-social-tech.jpg                          [filled]  <- Past | Social | iconic technology
+past-ex-mfs.jpg                               [filled]  <- Past | Social | exhibit: Multiply and Friendster Digital Spaces
+past-ex-ktv.jpg                               [filled]  <- Past | Social | exhibit: Family Karaoke Bars
+past-ex-lan.jpg                               [filled]  <- Past | Social | exhibit: LAN Gaming Computer Shops
+past-ex-fb.jpg                                [filled]  <- Past | Social | exhibit: Shift from Friendster to Facebook
+triv-past-social-1.jpg                        [needs photo]  <- Past | trivia card: EDSA II · 2001
+triv-past-social-2.jpg                        [needs photo]  <- Past | trivia card: Dance craze · 2003
+past-economic.jpg                             [filled]  <- Past | Economic | main picture
+past-economic-tech.jpg                        [filled]  <- Past | Economic | iconic technology
+past-ex-bpo.jpg                               [filled]  <- Past | Economic | exhibit: 24/7 BPO Commercial Hubs
+past-ex-moa.jpg                               [filled]  <- Past | Economic | exhibit: SM Mall of Asia Opening
+triv-past-economic-1.jpg                      [needs photo]  <- Past | trivia card: Wowowee stampede · 2006
+triv-past-economic-2.jpg                      [needs photo]  <- Past | trivia card: Bootleg discs · 2003
+past-political.jpg                            [filled]  <- Past | Political | main picture
+past-political-tech.jpg                       [filled]  <- Past | Political | iconic technology
+triv-past-political-1.jpg                     [needs photo]  <- Past | trivia card: First automated vote · 2010
+triv-past-political-2.jpg                     [needs photo]  <- Past | trivia card: “Hello Garci” · 2005
+past-cultural.jpg                             [filled]  <- Past | Cultural | main picture
+past-cultural-tech.jpg                        [filled]  <- Past | Cultural | iconic technology
+past-ex-fantasya.jpg                          [filled]  <- Past | Cultural | exhibit: GMA & ABS-CBN Telefantastya Wars
+past-ex-asiano.jpg                            [filled]  <- Past | Cultural | exhibit: Tagalog Dubbing of Asianovelas
+past-ex-pbb.jpg                               [filled]  <- Past | Cultural | exhibit: Pinoy Big Brother
+past-ex-sexbomb.jpg                           [filled]  <- Past | Cultural | exhibit: SexBomb Girls “Spaghetti” Dance Craze
+past-ex-starstruck.jpg                        [filled]  <- Past | Cultural | exhibit: StarStruck Reality Talent Search
+triv-past-cultural-1.jpg                      [needs photo]  <- Past | trivia card: Meteor Garden · 2003
+triv-past-cultural-2.jpg                      [needs photo]  <- Past | trivia card: Jejemon and emo · 2000s
+past-environmental.jpg                        [needs photo]  <- Past | Environmental | main picture
+past-environmental-tech.jpg                   [needs photo]  <- Past | Environmental | iconic technology
+triv-past-environmental-1.jpg                 [needs photo]  <- Past | trivia card: Typhoon Ondoy · 2009
+past-others.jpg                               [filled]  <- Past | Others | main picture
+past-others-tech.jpg                          [filled]  <- Past | Others | iconic technology
+past-ex-nokia.jpg                             [filled]  <- Past | Others | exhibit: The Durable Nokia Phone
+past-ex-pasaload.jpg                          [filled]  <- Past | Others | exhibit: PasaLoad & Prepaid SIM Culture
+past-ex-digicam.jpg                           [filled]  <- Past | Others | exhibit: Compact Digicams
+past-ex-yt.jpg                                [filled]  <- Past | Others | exhibit: Rise of YouTube Video Sharing
+triv-past-others-1.jpg                        [needs photo]  <- Past | trivia card: USB dongles · 2009
+triv-past-others-2.jpg                        [needs photo]  <- Past | trivia card: Text-vote TV · 2003–2005
+present-social.jpg                            [filled]  <- Present | Social | main picture
+present-social-tech.jpg                       [filled]  <- Present | Social | iconic technology
+triv-present-social-1.jpg                     [needs photo]  <- Present | trivia card: Virtual hangouts · 2020
+present-economic.jpg                          [filled]  <- Present | Economic | main picture
+present-economic-tech.jpg                     [filled]  <- Present | Economic | iconic technology
+triv-present-economic-1.jpg                   [needs photo]  <- Present | trivia card: QR Ph · 2021
+present-political.jpg                         [filled]  <- Present | Political | main picture
+present-political-tech.jpg                    [filled]  <- Present | Political | iconic technology
+triv-present-political-1.jpg                  [needs photo]  <- Present | trivia card: The 2022 feed
+present-cultural.jpg                          [filled]  <- Present | Cultural | main picture
+present-cultural-tech.jpg                     [filled]  <- Present | Cultural | iconic technology
+triv-present-cultural-1.jpg                   [needs photo]  <- Present | trivia card: BINI and P-pop · today
+present-environmental.jpg                     [filled]  <- Present | Environmental | main picture
+present-environmental-tech.jpg                [filled]  <- Present | Environmental | iconic technology
+triv-present-environmental-1.jpg              [needs photo]  <- Present | trivia card: Taal eruption · 2020
+triv-present-environmental-2.jpg              [needs photo]  <- Present | trivia card: Heatwave · 2024
+present-others.jpg                            [filled]  <- Present | Others | main picture
+present-others-tech.jpg                       [filled]  <- Present | Others | iconic technology
+triv-present-others-1.jpg                     [needs photo]  <- Present | trivia card: SIM registration · 2022
+future-social.jpg                             [needs photo]  <- Future | Social | overall trend (main picture) or gallery-2030s-social-aging.jpg
+future-social-key.jpg                         [needs photo]  <- Future | Social | key event
+future-social-tech.jpg                        [needs photo]  <- Future | Social | technology or tech-2030s-social-ai-assistant.jpg
+future-social-performance.jpg                 [needs photo]  <- Future | Social | performance or perf-2030s-social-ai-dance-trends.jpg
+future-social-space.jpg                       [needs photo]  <- Future | Social | space
+future-economic.jpg                           [needs photo]  <- Future | Economic | overall trend (main picture) or gallery-2030s-economic-ai-bpo.jpg
+future-economic-key.jpg                       [needs photo]  <- Future | Economic | key event
+future-economic-tech.jpg                      [needs photo]  <- Future | Economic | technology or tech-2030s-economic-cashless.jpg
+future-economic-performance.jpg               [needs photo]  <- Future | Economic | performance or perf-2030s-economic-live-selling.jpg
+future-economic-space.jpg                     [needs photo]  <- Future | Economic | space or space-2030s-economic-robot-warehouse.jpg
+future-political.jpg                          [needs photo]  <- Future | Political | overall trend (main picture)
+future-political-key.jpg                      [needs photo]  <- Future | Political | key event
+future-political-tech.jpg                     [needs photo]  <- Future | Political | technology
+future-political-performance.jpg              [needs photo]  <- Future | Political | performance
+future-political-space.jpg                    [needs photo]  <- Future | Political | space or space-2030s-political-hybrid-protest.jpg
+future-cultural.jpg                           [needs photo]  <- Future | Cultural | overall trend (main picture) or gallery-2030s-cultural-creatives.jpg
+future-cultural-key.jpg                       [needs photo]  <- Future | Cultural | key event
+future-cultural-tech.jpg                      [needs photo]  <- Future | Cultural | technology
+future-cultural-performance.jpg               [needs photo]  <- Future | Cultural | performance
+future-cultural-space.jpg                     [needs photo]  <- Future | Cultural | space or space-2030s-cultural-cebu-arena.jpg
+future-environmental.jpg                      [needs photo]  <- Future | Environmental | overall trend (main picture) or gallery-2030s-environmental-typhoon.jpg
+future-environmental-key.jpg                  [needs photo]  <- Future | Environmental | key event
+future-environmental-tech.jpg                 [needs photo]  <- Future | Environmental | technology or tech-2030s-environmental-pagasa-radar.jpg
+future-environmental-performance.jpg          [needs photo]  <- Future | Environmental | performance or perf-2030s-environmental-livestream-relief.jpg
+future-environmental-space.jpg                [needs photo]  <- Future | Environmental | space
+future-others.jpg                             [needs photo]  <- Future | Others | overall trend (main picture)
+future-others-key.jpg                         [needs photo]  <- Future | Others | key event
+future-others-tech.jpg                        [needs photo]  <- Future | Others | technology or tech-2030s-others-fiber-internet.jpg
+future-others-performance.jpg                 [needs photo]  <- Future | Others | performance or perf-2030s-others-gaming-career.jpg
+future-others-space.jpg                       [needs photo]  <- Future | Others | space
